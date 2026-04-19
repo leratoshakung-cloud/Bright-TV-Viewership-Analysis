@@ -7,7 +7,7 @@ BrightTV’s CEO has set an objective to grow the company’s subscription base 
 
 #  🎯Objective
 
-The main objective is to the assist the CEO to grow the company subscription base, so the analysis covers the following:
+The main objective is to assist the CEO to grow the company subscription base, so the analysis covers the following:
 
 • Insights on user and usage trends of BrightTV. 
 
@@ -22,7 +22,7 @@ consumption?
 
 •**Project Planning & Archetecture**: I used *Miro* to brainstorm and to create a flow diagram. I also used Canva to build the project timelines
 
-•**Data Visualization**: To visualise i used *Microsoft Excel* to built the analysis using pivot tables and charts, then i used *Google Data Studio* to build this cool [BrightTV Dashboard](https://datastudio.google.com/reporting/52028c4b-1197-44be-a878-8f9fc35d3765)
+•**Data Visualization**: To visualise i used *Microsoft Excel* to built the analysis using pivot tables and charts, then i used *Google Data Studio* to build this cool [BrightTV Dashboard](https://datastudio.google.com/reporting/52028c4b-1197-44be-a878-8f9fc35d3765) 🙂
 
 •**Presentation**: Final analysis was presented on Microsoft Powerpoint
 
