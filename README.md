@@ -20,7 +20,7 @@ consumption?
 
 •**Data processing**: The SQL queries was completed in *Databricks* platform, then dowloaded the processed data into Microsoft excel for analysis
 
-•**Project Planning & Archetecture**: I used *Miro* to brainstorm and to create a flow diagram. I also used Canva to build the project timelines
+•**Project Planning & Archetecture**: I used *Miro* to brainstorm and to create a flow diagram. For the project plan, i created a gantt chart in Miro then uploaded it into *NoteboolLM* (An AI Tool) which created a detailed project roadmap.
 
 •**Data Visualization**: To visualise i used *Microsoft Excel* to built the analysis using pivot tables and charts, then i used *Google Data Studio* to build this cool [BrightTV Dashboard](https://datastudio.google.com/reporting/52028c4b-1197-44be-a878-8f9fc35d3765) 🙂
 
